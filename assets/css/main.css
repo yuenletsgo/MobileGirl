@@ -259,7 +259,7 @@ body {
   -webkit-tap-highlight-color: #ffc7c3; }
 
 body {
-  background-image: url(/assets/images/ZenBG.png);
+  background-image: url(../images/ZenBG.png);
   font-size: 16px;
   line-height: 1.6;
   letter-spacing: 0.8px;
@@ -418,7 +418,7 @@ footer {
     margin-top: 14%; }
   .section-intro .anidea {
     height: 435px;
-    background-image: url(/assets/images/anidea.png);
+    background-image: url(../images/anidea.png);
     background-position: 95% 100%;
     background-repeat: no-repeat;
     background-size: 350px; }
@@ -480,7 +480,7 @@ footer {
     margin-top: 60%; }
   .section-intro .anidea {
     height: 200px;
-    background-image: url(/assets/images/anidea.png);
+    background-image: url(../images/anidea.png);
     background-position: 50% 75%;
     background-repeat: no-repeat;
     background-size: 200px; }
@@ -742,7 +742,7 @@ footer {
     .says-section .says-belt .says-icon {
       display: none; } }
 .contant {
-  background-image: url(/assets/images/ZenBG3.png); }
+  background-image: url(../images/ZenBG3.png); }
   .contant .contant-title {
     background-color: #353535;
     padding: 3% 0 3% 0;
