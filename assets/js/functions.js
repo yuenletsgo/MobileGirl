@@ -59,12 +59,14 @@ function conHover() {
 }
 
 function swiftHover() {
+  $('.swift').hide();
 $("#swifthover").hover(function(){
     $('.swift').show();
 },function(){
     $('.swift').hide();
 });
 
+  $('.eclipse').hide();
 $("#eclipsehover").hover(function(){
     $('.eclipse').show();
 },function(){
